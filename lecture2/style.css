@@ -1,0 +1,27 @@
+h3{
+    color: rgb(243, 247, 10);
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+p{
+    color: rgb(18, 231, 10);
+}
+h1{
+    color: brown;
+}
+
+/* DESENDENT SELECTORS  */
+
+
+/* div   p span{
+    color: chocolate;
+    /*   this gives us a leson than throung decendent  we get chocolatie colour  for both i am child and i am decendent */
+
+ 
+
+    /* CHILDREN SELECTORS */
+div>p>span{
+    color:chocolate;
+}

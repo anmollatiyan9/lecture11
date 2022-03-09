@@ -1,0 +1,62 @@
+li{
+    list-style: none;
+    justify-content: space-between;
+    margin-left: 2rem;
+    padding-top: .5rem;
+    font-size: 2rem;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+laptopimage>img{
+   margin-left: 50rem;
+    
+   
+width:100vw;
+    height: 100vh;
+
+}
+.footer{
+    height: 80px;
+    background-color: black;
+    color: azure;
+}
+.footer>p{
+    font-size: 25px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+   
+
+ul{
+    display: flex;
+}
+.container{
+    display: flex;
+}
+.container>div{
+    width: 33vw;
+    text-align: center;
+    margin-left: 4rem;
+    margin-top: 2rem;
+}
+.footer>p{
+    text-align: center;
+
+}
+/* to color the blueish colir black */
+a:link{
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+  
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: aqua;
+}
