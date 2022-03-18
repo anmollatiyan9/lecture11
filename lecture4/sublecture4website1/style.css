@@ -1,5 +1,6 @@
 li{
-    list-style: none;
+    list-style: none; 
+    /* this is justify content is for making hrizontally  */
     justify-content: space-between;
     margin-left: 2rem;
     padding-top: .5rem;
@@ -7,7 +8,8 @@ li{
     font-size: 2rem;
     text-decoration: none;
 }
-
+ /* this is child selectors and see here we have given and see laptopimage>img in this laptopimage is class and img is tag 
+ then from here we can give class name>tag */
 laptopimage>img{
    margin-left: 50rem;
     
@@ -46,7 +48,7 @@ ul{
     text-align: center;
 
 }
-/* to color the blueish colir black */
+/* to color the blueish color black */
 a:link{
     color: black;
 }
